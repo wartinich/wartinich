@@ -1,6 +1,6 @@
-<h1 align="left">Arkhip Vasilenko (@wartinich) 👋</h1>
+<h1 align="left">Arkhyp Vasylenko (@wartinich) 👋</h1>
 
-- 💻 Core Stack: **Python, JavaScript**. Mainly focused on Backend.
+- 💻 Core Stack: **Python, Golang**. Mainly focused on Backend.
 - 🔥 Learning Software Architecture, System Design
 - 👨‍💻 Linkedin | Instagram: **@wartinich**
 
